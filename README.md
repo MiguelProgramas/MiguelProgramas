@@ -4,7 +4,7 @@
   <img src="https://github.com/MiguelProgramas/MiguelProgramas/blob/main/MiguelProgramas.gif" alt="Hey, you can call me Miguel ✌️ I'm a 🚀 soon-to-be Software Engineer 🚀 I ❤️ love coding ❤️ and i 💻 aspire to be the best at it 💻">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelProgramas&theme=high-contrast](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelProgramas&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelProgramas&show_icons=true&count_private=true&hide_border=true&title_color=004DFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" alt="MiguelProgramas github stats" /> 
