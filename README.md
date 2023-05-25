@@ -27,4 +27,8 @@
 <br>
 </div>
 
+<p align="center">
+  <img src="https://github.com/MiguelProgramas/MiguelProgramas/blob/main/dino.gif" alt="Google Chrome's offline dinosaur game.">
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
