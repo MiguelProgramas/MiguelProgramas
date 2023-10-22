@@ -9,7 +9,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelProgramas&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="MiguelProgramas github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelProgramas&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-  <img src = 'https://www.codewars.com/users/MiguelProgramas/badges/large' alt = 'Codewars Badge'>
+  <img width='150%' height='150%' src = 'https://www.codewars.com/users/MiguelProgramas/badges/large' alt = 'Codewars Badge'>
 </div>
 
  ### Main skills:
